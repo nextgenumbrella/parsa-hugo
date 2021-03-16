@@ -5,7 +5,7 @@ description = "This is meta description"
 draft = true
 image = "images/masonary-post/post-8.jpg"
 tags = ["Photos", "Food"]
-title = "Adoçante: qual escolher?-(copy)"
+title = "Alimentos que auxiliam a saúde intestinal"
 type = "post"
 
 +++
