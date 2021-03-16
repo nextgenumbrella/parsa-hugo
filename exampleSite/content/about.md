@@ -1,7 +1,7 @@
 ---
 title: Sobre
 date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+description: Sobre mim
 image: images/d3a059c8-5930-4986-97f3-e380e9fc2972.jpeg
 
 ---
