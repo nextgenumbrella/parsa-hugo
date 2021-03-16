@@ -5,7 +5,7 @@ description = "This is meta description"
 draft = true
 image = "images/featured-post/post-4.jpg"
 tags = ["Photos", "Article"]
-title = "Organize Your Life With 10 Simple rule-(copy)"
+title = "Tá faltando tempo? Dicas para facilitar a dieta no seu dia a dia"
 type = "featured"
 
 +++
