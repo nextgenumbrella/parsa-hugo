@@ -78,14 +78,8 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
+icon = "ti-instagram"
+url = "https://www.instagram.com/priscilakesley/"
+[[params.social]]
 icon = "ti-facebook"
-url = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-url = "#"
-[[params.social]]
-icon = "ti-linkedin"
-url = "#"
-[[params.social]]
-icon = "ti-github"
-url = "#"
+url = "https://www.facebook.com/priscila.kesley"
