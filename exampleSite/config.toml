@@ -1,6 +1,6 @@
 baseurl = "https://priscilakesley.com.br"
 googleAnalytics = ""
-languageCode = "en-us"
+languageCode = "pt-br"
 paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
