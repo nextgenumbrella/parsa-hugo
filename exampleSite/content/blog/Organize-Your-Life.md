@@ -1,5 +1,5 @@
 ---
-title: 5 TROCAS SIMPLES PARA SE TER HÁBITOS MAIS SAUDÁVEIS
+title: 5 TROCAS SIMPLES PARA CRIAR HÁBITOS MAIS SAUDÁVEIS
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
