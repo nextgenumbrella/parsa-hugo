@@ -40,7 +40,7 @@ email = "priscilakesley@hotmail.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = ""
 preloader = true
 search = true
 [params.cookies]
