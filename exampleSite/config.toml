@@ -29,14 +29,14 @@ weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
+address = "Brasilia - DF"
 author = "John Doe"
 author_image = "images/banner-img.png"
 bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
 contact_form_action = "#"
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Copyright &copy; 2021 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "priscilakesley@hotmail.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
