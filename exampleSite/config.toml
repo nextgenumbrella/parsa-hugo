@@ -45,7 +45,7 @@ preloader = true
 search = true
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = "180"
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 enable = true
