@@ -27,19 +27,19 @@ O açúcar tem alto potencial inflamatório, além de ter índice glicêmico alt
 
 A melhor alternativa é utilizar adoçantes naturais: estévia, xilitol ou eritritol. No post ... eu falo um pouco mais sobre eles. Dá uma conferida lá pra escolher o melhor pra vc :)
 
-2. **Farinha branca por: Farinha integral**
+1. **Farinha branca por: Farinha integral**
 
 A farinha branca também possui um potencial inflamatório alto e gera pico de insulina no organismo. Farinhas integrais por possuírem uma quantidade maior de fibra, acabam sendo as melhores opções, inclusive para a sua saúde intestinal.
 
-3. **Sal convencional por: Sal light e Temperos naturais**
+1. **Sal convencional por: Sal light e Temperos naturais**
 
 Quando se trata de temperos, o sódio é o foco principal é nesse caso a utilização de **temperos naturais** é a **melhor escolha**! Mas se vc ainda não consegue abrir mão do sal, dê preferência ao **sal light** que possui de **50% a 70% menos sódio** que o sal convencional. Aí vc me pergunta “E o sal rosa, Pri?” O sal rosa também possui menos sódio, porém o custo é mais alto, nesse caso o sal light acaba sendo uma escolha com melhor relação custo x benefício.
 
-4. **Margarina por: Manteiga**
+1. **Margarina por: Manteiga**
 
 A margarina é um produto artificial produzido com base em óleo vegetal e modificado quimicamente, já a **manteiga** é produzida com base na **gordura obtida do leite** sendo uma opção **natural**.
 
-5. **Refrigerante por: Água com gás e limão**
+1. **Refrigerante por: Água com gás e limão**
 
 Refrigerantes são **compostos** por grande quantidade de **açúcar** e **componentes químicos** que podem prejudicar seu organismo, além de **não possuir valor nutricional**. Uma alternativa perfeita para substituição é fazer uso de **água com gás e limão** (espremido mesmo). Sabe aquele sprite?? Então, vc pode usar um adoçante e fica igualzinho! 😍
 
