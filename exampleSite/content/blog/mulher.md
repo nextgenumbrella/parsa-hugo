@@ -9,43 +9,16 @@ title = "Mulher "
 type = "featured"
 
 +++
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Mulher independente assusta? 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Dizem que sim... talvez pelo fato de que quando crescemos entendemos o nosso verdadeiro valor. Percebemos que não precisamos chorar por qualquer coisa, que não caímos por qualquer detalhe, que não desistimos em qualquer derrota e que não lutamos pela metade. Somos sinceras, já fomos meninas, chorávamos e esperávamos pelo príncipe encantado que traria sentido para nossa vida... Hoje, descobrimos que somos espetaculares e que jamais estaremos sozinhas.
 
+Não sou melhor e nem pior que ninguém, somente uma mulher independente, dona do seu nariz, uma mulher que sabe o que quer e, sobretudo, onde quer chegar. Uma mulher que corre atrás dos seus sonhos e que já provou pra si mesma que sozinha tem a força, a coragem e a determinação de ir muito além do que imaginava. 
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+Já passei por muita coisa nessa vida, mas nenhuma delas me impediu de seguir em frente, de correr atrás, de colocar todo o meu esforço para conquistar o que tive, o que tenho e o que ainda terei. E hoje, diante de todas as minhas conquistas, diante da vida que criei pra mim, eu afirmo que cada esforço vale a pena! Porque a melhor parte disso tudo é saber que, por mais difícil que tenha sido chegar aonde chegamos, foi tudo fruto de mérito próprio! Fizemos por merecer! 
 
+Somos capazes de muita coisa! Nossa força e nosso poder vai além do que muitos imaginam... não se subestime, não deixe que te diminuam, acredite no seu valor, acredite em vc, se ame, se mime, se permita, seja forte, seja independente... seja o seu próprio príncipe encantado!
 
-![](../images/post-img.jpg)
+Mulher independente e determinada assusta sim. Sabe por quê? Porque ela não fica no mesmo lugar, ela vai longe!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+🧡💪🏻
