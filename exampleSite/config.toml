@@ -30,9 +30,9 @@ weight = 3
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "Brasilia - DF"
-author = "John Doe"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+author = "Priscila "
+author_image = ""
+bio = "."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2021 a theme by [themefisher.com](themefisher.com)"
 description = "This is meta description"
