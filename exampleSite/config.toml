@@ -20,7 +20,7 @@ parent = "Homepage"
 url = "homepage/home-2"
 [[menu.main]]
 name = "Sobre"
-url = "about"
+url = "https://www.priscilakesley.com.br/about/"
 weight = 2
 [[menu.main]]
 name = "Contato"
