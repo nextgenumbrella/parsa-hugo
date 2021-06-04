@@ -2,7 +2,7 @@
 title: Sobre
 date: 
 description: Sobre mim
-image: "/images/0f8dd82b-5b34-40fa-8da5-fd48f4c8c40a.jpeg?class=small"
+image: "/images/0f8dd82b-5b34-40fa-8da5-fd48f4c8c40a_.jpeg?class=small"
 
 ---
 ### Oi, muito prazer! Eu sou a Pri!
