@@ -19,7 +19,7 @@ url = "https://www.priscilakesley.com.br/about/"
 weight = 2
 [[menu.main]]
 name = "Contato"
-url = "contato"
+url = "https://www.priscilakesley.com.br/contact/"
 weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
