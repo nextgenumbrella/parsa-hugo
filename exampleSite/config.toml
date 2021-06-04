@@ -20,7 +20,7 @@ parent = "Homepage"
 url = "homepage/home-2"
 [[menu.main]]
 name = "Sobre"
-url = "sobre"
+url = "about"
 weight = 2
 [[menu.main]]
 name = "Contato"
