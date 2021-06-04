@@ -2,7 +2,6 @@
 categories = ["Article"]
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-draft = true
 image = "images/featured-post/post-4.jpg"
 tags = ["Photos", "Article"]
 title = "Tá faltando tempo? Dicas para facilitar a dieta no seu dia a dia"
