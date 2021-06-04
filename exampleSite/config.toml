@@ -6,11 +6,6 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Priscila Kesley | Blog Pessoal"
 [[menu.main]]
-hasChildren = true
-name = "Homepage"
-url = ""
-weight = 1
-[[menu.main]]
 name = "Homepage 1"
 parent = "Homepage"
 url = "homepage/home-1"
