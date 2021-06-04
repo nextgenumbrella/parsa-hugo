@@ -2,7 +2,7 @@
 title: Sobre
 date: 2019-05-14T14:46:10.000+06:00
 description: Sobre mim
-image: "/images/0a4137ec-8abc-4caa-8e3c-66a2b8d669b6.jpeg"
+image: "/images/0f8dd82b-5b34-40fa-8da5-fd48f4c8c40a.jpeg"
 
 ---
 ### Oi, muito prazer! Eu sou a Pri!
