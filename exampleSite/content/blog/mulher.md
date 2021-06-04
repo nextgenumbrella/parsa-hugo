@@ -8,7 +8,7 @@ title = "Girl power!"
 type = "featured"
 
 +++
-Mulher independente assusta?
+##### **Mulher independente assusta?**
 
 Dizem que sim... talvez pelo fato de que quando crescemos entendemos o nosso verdadeiro valor. Percebemos que não precisamos chorar por qualquer coisa, que não caímos por qualquer detalhe, que não desistimos em qualquer derrota e que não lutamos pela metade. Somos sinceras, já fomos meninas, chorávamos e esperávamos pelo príncipe encantado que traria sentido para nossa vida... Hoje, descobrimos que somos espetaculares e que jamais estaremos sozinhas.
 
