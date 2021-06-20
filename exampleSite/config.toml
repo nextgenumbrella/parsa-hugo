@@ -37,9 +37,9 @@ layout = "1"
 logo = "/images/shell-pink-initials-design-logo-1.png"
 mobile = ""
 preloader = true
-search = true
+search = false
 [params.cookies]
-enable = false
+enable = true
 expire_days = "180"
 [params.instafeed]
 access_token = ""
@@ -72,6 +72,8 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
+[[params.plugins.js]]
+link = "plugins/custom/custom.js"
 [[params.social]]
 icon = "ti-instagram"
 url = "https://www.instagram.com/priscilakesley"
