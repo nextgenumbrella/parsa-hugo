@@ -1,6 +1,7 @@
 ---
-title: "Homepage 2"
-subtitle: "Homepage 1 Subtitle"
-description: "Homepage 1 description"
+title: 'Esse é o '
+subtitle: Blog da Priscila!
+description: E essa é uma descrição simples de teste
 layout: "2"
+
 ---
