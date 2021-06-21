@@ -4,6 +4,16 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: document
+  path: exampleSite/content/home-1.md
+  label: Home Page
+  templates:
+  - intro page
+- type: document
+  path: exampleSite/content/home-2.md
+  label: Intro Page
+  templates:
+  - intro page
 - type: directory
   path: exampleSite/content/blog
   label: Post
