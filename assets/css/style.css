@@ -620,9 +620,9 @@ textarea.form-control {
 .instagram-post {
   position: relative;
   height: 212px;
-  width: 212px;
+  width: 212px !important;
   margin: auto;
-  display: flex;
+  display: flex !important;
   align-items: center;
 }
 
