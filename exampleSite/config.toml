@@ -5,14 +5,14 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Priscila Kesley | Blog Pessoal"
-[[menu.main]]
-name = "Homepage 1"
-parent = "Homepage"
-url = "homepage/home-1"
-[[menu.main]]
-name = "Homepage 2"
-parent = "Homepage"
-url = "homepage/home-2"
+# [[menu.main]]
+# name = "Homepage 1"
+# parent = "Homepage"
+# url = "homepage/home-1"
+# [[menu.main]]
+# name = "Homepage 2"
+# parent = "Homepage"
+# url = "homepage/home-2"
 [[menu.main]]
 name = "Sobre"
 url = "https://www.priscilakesley.com.br/about/"

@@ -59,7 +59,7 @@
     var userFeed = new Instafeed({
       get: 'user',
       resolution: 'low_resolution',
-      accessToken: accessToken,
+      accessToken: InstagramToken,
       template: '<div class="instagram-post"><a href="{{link}}" target="_blank"><img class="img-fluid w-100" src="{{image}}" alt="instagram-image"></a></div>'
     });
     userFeed.run();
