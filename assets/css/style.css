@@ -611,8 +611,19 @@ textarea.form-control {
   background: transparent;
 }
 
+.instagram-slider{
+  height: 212px;
+  overflow: hidden;
+  display: flex;
+}
+
 .instagram-post {
   position: relative;
+  height: 212px;
+  width: 212px;
+  margin: auto;
+  display: flex;
+  align-items: center;
 }
 
 .instagram-post::before {
