@@ -5,12 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
-  path: exampleSite/content/home-1.md
+  path: exampleSite/content/homepage/home-1.md
   label: Home Page
   templates:
   - intro page
 - type: document
-  path: exampleSite/content/home-2.md
+  path: exampleSite/content/homepage/home-2.md
   label: Intro Page
   templates:
   - intro page
